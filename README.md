@@ -31,7 +31,7 @@ A passionate **Software Engineer** specializing in cross-platform mobile develop
 ![REST API](https://img.shields.io/badge/-REST_API-FF6F61?logo=rest&logoColor=white)
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=black)
 
-### **DevOps & Tools**  
+### **Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
