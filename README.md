@@ -3,7 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Email-abdullahsaddique6061%40gmail.com-red?style=flat&logo=gmail)](mailto:abdullahsaddique6061@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Saddique-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdullahsaddiqueofficial)
-[![GitHub](https://img.shields.io/badge/GitHub-AbdullahSaddique6061-black?style=flat&logo=github)](https://github.com/abdullahsaddique6061)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdullahSaddique6061-black?style=flat&logo=github)](https://github.com/abdullahsaddique606)
 
 
 
@@ -73,6 +73,6 @@ A passionate **Software Engineer** specializing in cross-platform mobile develop
 ## 📫 Let's Connect!  
 - 💌 **Email**: [abdullahsaddique6061@gmail.com](mailto:abdullahsaddique6061@gmail.com)  
 - 💼 **LinkedIn**: [Let's network!](https://linkedin.com/in/abdullahsaddiqueofficial)  
-- 🔧 **GitHub**: [Explore my code](https://github.com/abdullahsaddique6061)  
+- 🔧 **GitHub**: [Explore my code](https://github.com/abdullahsaddique606)  
 
 *"First solve the problem, then write the code." – John Johnson*  
