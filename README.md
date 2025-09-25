@@ -16,6 +16,7 @@ A passionate **Software Engineer** specializing in cross-platform mobile develop
 - 💡 Always exploring: Clean Architecture, performance optimization, and DevOps practices  
 
 ---
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahsaddique606&show_icons=true&count_private=true&include_all_commits=true)
 
 ## 🛠️ Languages & Tools  
 
