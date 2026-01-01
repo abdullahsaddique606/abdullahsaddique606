@@ -47,7 +47,7 @@ A passionate **Software Engineer** specializing in cross-platform mobile develop
   
 ### [Expat Registration -Desktop]([Github-link](https://github.com/InnoBlocs/RegistrationApplication)) 🏥  
 *Biometric Identity & Enrollment Platform*  
- ![REST API](https://img.shields.io/badge/-REST_API-FF6F61)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4)
 - Front end for registration of users.  
   
 
