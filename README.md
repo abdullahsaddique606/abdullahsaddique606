@@ -39,6 +39,17 @@ A passionate **Software Engineer** specializing in cross-platform mobile develop
 ---
 
 ## 💻 Recent Projects  
+### [Expat Registration System API]([Github-link](https://github.com/InnoBlocs/RegistrationApi)) 🏥  
+*Biometric Identity & Enrollment Platform*  
+ ![REST API](https://img.shields.io/badge/-REST_API-FF6F61)  
+- Biometric fingerprint enrollment using Dermalog LF10 scanner  
+- Hardware integration (biometric scanner & printer)
+  
+### [Expat Registration -Desktop]([Github-link](https://github.com/InnoBlocs/RegistrationApplication)) 🏥  
+*Biometric Identity & Enrollment Platform*  
+ ![REST API](https://img.shields.io/badge/-REST_API-FF6F61)  
+- Front end for registration of users.  
+  
 
 ### [Monumentum Student App](private-repo-link)  
 📚 *University Engagement Platform*  
@@ -51,12 +62,6 @@ A passionate **Software Engineer** specializing in cross-platform mobile develop
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B) ![.NET](https://img.shields.io/badge/-.NET-512BD4)  
 - 1-click bill payments & SIM-free transactions  
 - Secure subscription workflows  
-
-### [E Wellness](Github-link) 🏥  
-*Telemedicine Platform*  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B) ![REST API](https://img.shields.io/badge/-REST_API-FF6F61)  
-- Doctor recommendations & video consultations  
-- Appointment management system  
 
 ---
 
